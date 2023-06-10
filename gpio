@@ -1,0 +1,15 @@
+gpio 17 -> up
+gpio 27 -> down
+gpio 22 -> right
+gpio 10 -> left
+
+gpio 2 -> x stop
+gpio 3 -> y stop
+gpio 4 -> z stop
+
+gpio 9 -> kaldırıcı
+gpio 11 -> indirici
+
+gpio 0 -> çekici
+gpio 5 -> karıştırıcı
+gpio 6 -> boşaltıcı
